@@ -9,3 +9,7 @@ The theme shall be close to the inverse of **Simple White X**, but this concept 
 Please be mindful this work is at a very eary planning stage, so this will be mostly empty for a while.  The bulk of it will come when it is ready.  I am yet busy with work for **Simple White X** because the next release date is close while I need to correct a few things for so **Firefox 45** soon to be ***Developer Edition*** (and future ***ESR***).
 
 Suggestions are welcome and I shall take them into consideration.
+
+-----
+
+I am unclear of the future of this project given @rapisho published the theme ***Simple Black*** at AMO.  This theme appears to take the code of ***Simple White X*** and change every color to its RGB inverse, e.g., change #123def to #edc210.  This is a bit different to what I had in mind, because that way blue turns into yellow.  A similar job seems to be done with icons.  Yet the toolbar icons were somewhat different.  The version I found was at an early stage. but I liked overall result: a cool light theme is changed into a dark warm theme.  Yet there are more than a few things I would do differently...
